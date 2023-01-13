@@ -1,6 +1,11 @@
  1 file(s) copied.
 second line
 b1 written
+<<<<<<< HEAD
 b2 written
 b2 branch updated online.
 b2 branch updated 2 online
+=======
+master updated online
+master update2 onine
+>>>>>>> origin/master
